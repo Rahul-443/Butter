@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="api_id" translatable="false">534dad72</string>
+    <string name="api_key" translatable="false">a7d3a216bbdecbe0d99d7d57aad756c9</string>
+    <string name="sample_admob_app_id" translatable="false">ca-app-pub-7083699324991116~4590100011</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="sample_admob_ad_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_ad_id" translatable="false">ca-app-pub-7083699324991116/3167856061</string>
+
+    <string name="app_name">Butter English Dictionary</string>
+    <string name="app_label">Butter</string>
+    <string name="query_hint">Search a word in english</string>
+    <string name="inf">Internet not found.</string>
+    <string name="icon_content_description">Icon image - Has a cute butter in it.</string>
+    <string name="home_menu_title">Home</string>
+    <string name="settings_menu_title">Settings</string>
+    <string name="share_menu_title">Share</string>
+    <string name="rate_butter_menu_title">Rate Butter</string>
+    <string name="search_menu_item">Search</string>
+    <string name="saw">Search in english</string>
+    <string name="navigation_drawer_enabled">Navigation Drawer Enabled</string>
+    <string name="navigation_drawer_disabled">Navigation Drawer Disabled</string>
+    <string name="dark_mode_text">Dark mode</string>
+    <string name="text_size_text">Text Size</string>
+    <string name="subscription_text">subscription</string>
+    <string name="subscription_state_text">Active</string>
+    <string name="text_size">Text size</string>
+    <string name="dialect">Dialect</string>
+    <string name="wnf">Please enter a word.</string>
+    <string name="pronunciation">pronunciation</string>
+    <string name="dialect_TextView">(Dialect)</string>
+    <string name="aa">Aa</string>
+    <string name="grammaticalFeatures">Grammatical Features</string>
+    <string name="definitions">Definitions</string>
+    <string name="domainClasses">Domain Classes</string>
+    <string name="examples">Examples</string>
+    <string name="shortDefinitions">Short Definitions</string>
+    <string name="synonyms">Synonyms</string>
+    <string name="phrases">Phrases</string>
+    <string name="notes">Notes</string>
+    <string name="semanticClasses">Semantic Classes</string>
+    <string name="requestToCheckNetConnection">Please check your Internet Connection and swipe down to refresh the page.</string>
+    <string name="nswf">No such word found.</string>
+    <string name="wtd">Word of the day</string>
+    <string name="messageToSwitchOnNetConnection">Please switch on your Internet. This application cannot work without an Internet connection.</string>
+    <string name="requestMessageToRate">Please take some time to rate us on Google Play.</string>
+    <string name="ratingRequestAccepted">Yes, Let\'s go to Playstore</string>
+    <string name="ratingRequestDeniedForNow">Not now</string>
+    <string name="messageShare">Get definitions of hard words on your screen on just a click. Download Butter</string>
+    <string name="ca">Choose any</string>
+    <string name="loveButter">Love Butter</string>
+    <string name="wotdFileName">3000_most_general_english_words.json</string>
+    <string name="requestToRefreshPage">Text not found. Please Refresh the Page.</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sample_admob_app_id" translatable="false">ca-app-pub-7083699324991116~4590100011</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-7083699324991116~2247210965</string>
+    <string name="sample_admob_ad_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_ad_id" translatable="false">ca-app-pub-7083699324991116/4074447899</string>
+
+    <string name="app_name">Butter Gujarati Dictionary</string>
+    <string name="query_hint">એક શબ્દ શોધો</string>
+    <string name="inf">ઇન્ટરનેટ મળ્યું નથી.</string>
+    <string name="icon_content_description">ચિહ્ન છબી - તેમાં એક સુંદર માખણ છે.</string>
+    <string name="home_menu_title">ખેર</string>
+    <string name="settings_menu_title">સેટિંગ્સ</string>
+    <string name="share_menu_title">શેર કરો</string>
+    <string name="rate_butter_menu_title">દર માખણ</string>
+    <string name="search_menu_item">શોધો</string>
+    <string name="saw">ગુજરાતીમાં શોધો</string>
+    <string name="navigation_drawer_enabled">નેવિગેશન ડ્રોઅર સક્ષમ</string>
+    <string name="navigation_drawer_disabled">નેવિગેશન ડ્રોઅર અક્ષમ કર્યું</string>
+    <string name="dark_mode_text">ડાર્ક મોડ</string>
+    <string name="text_size_text">ટેક્સ્ટનું કદ</string>
+    <string name="subscription_text">લવાજમ</string>
+    <string name="subscription_state_text">સક્રિય</string>
+    <string name="text_size">ટેક્સ્ટનું કદ</string>
+    <string name="dialect">બોલી</string>
+    <string name="wnf">કૃપા કરીને એક શબ્દ દાખલ કરો.</string>
+    <string name="pronunciation">ઉચ્ચાર</string>
+    <string name="dialect_TextView">(બોલી)</string>
+    <string name="aa">આ</string>
+    <string name="grammaticalFeatures">વ્યાકરણની સુવિધાઓ</string>
+    <string name="definitions">વ્યાખ્યાઓ</string>
+    <string name="domainClasses">ડોમેન વર્ગો</string>
+    <string name="examples">ઉદાહરણો</string>
+    <string name="shortDefinitions">ટૂંકી વ્યાખ્યાઓ</string>
+    <string name="synonyms">સમાનાર્થી</string>
+    <string name="phrases">શબ્દસમૂહો</string>
+    <string name="notes">નોંધો</string>
+    <string name="semanticClasses">અર્થપૂર્ણ વર્ગો</string>
+    <string name="requestToCheckNetConnection">કૃપા કરીને તમારું ઇન્ટરનેટ કનેક્શન તપાસો અને પૃષ્ઠને તાજું કરવા માટે નીચે સ્વાઇપ કરો.</string>
+    <string name="nswf">આવો કોઈ શબ્દ મળ્યો નથી.</string>
+    <string name="wtd">દિવસનો શબ્દ</string>
+    <string name="messageToSwitchOnNetConnection">કૃપા કરીને તમારું ઇન્ટરનેટ ચાલુ કરો. આ એપ્લિકેશન ઇન્ટરનેટ કનેક્શન વિના કાર્ય કરી શકશે નહીં.</string>
+    <string name="loveButter">લવ માખણ</string>
+    <string name="requestMessageToRate">કૃપા કરીને અમને ગૂગલ પ્લે પર રેટ કરવા માટે થોડો સમય કા .ો.</string>
+    <string name="ratingRequestAccepted">હા, ચાલો પ્લે સ્ટોર પર જઈએ</string>
+    <string name="ratingRequestDeniedForNow">હવે નથી</string>
+    <string name="messageShare">ફક્ત એક ક્લિક પર તમારી સ્ક્રીન પર સખત શબ્દોની વ્યાખ્યાઓ મેળવો. માખણ ડાઉનલોડ કરો</string>
+    <string name="ca">કોઈપણ પસંદ કરો</string>
+    <string name="wotdFileName">1000_most_general_gujarati_words.json</string>
+    <string name="app_label">Butter</string>
+    <string name="requestToRefreshPage">ટેક્સ્ટ મળ્યાં નથી. કૃપા કરીને પૃષ્ઠને તાજું કરો.</string>
+</resources>

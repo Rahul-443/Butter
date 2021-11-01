@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sample_admob_app_id" translatable="false">ca-app-pub-7083699324991116~4590100011</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-7083699324991116~5918846759</string>
+    <string name="sample_admob_ad_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_ad_id" translatable="false">ca-app-pub-7083699324991116/9052276555</string>
+
+    <string name="app_name">Butter Spanish Dictionary</string>
+    <string name="wnf">Ingrese una palabra.</string>
+    <string name="query_hint">Buscar una palabra</string>
+    <string name="inf">Internet no encontrado.</string>
+    <string name="icon_content_description">Imagen de icono: tiene una linda mantequilla.</string>
+    <string name="home_menu_title">Casa</string>
+    <string name="settings_menu_title">Ajustes</string>
+    <string name="share_menu_title">Cuota</string>
+    <string name="rate_butter_menu_title">Tasa de mantequilla</string>
+    <string name="search_menu_item">Buscar</string>
+    <string name="saw">Buscar en español</string>
+    <string name="navigation_drawer_enabled">Cajón de navegación habilitado</string>
+    <string name="navigation_drawer_disabled">Cajón de navegación desactivado</string>
+    <string name="dark_mode_text">Modo oscuro</string>
+    <string name="text_size_text">Tamano del texto</string>
+    <string name="subscription_text">suscripción</string>
+    <string name="subscription_state_text">Activo</string>
+    <string name="text_size">Tamano del texto</string>
+    <string name="dialect">Dialecto</string>
+    <string name="pronunciation">pronunciación</string>
+    <string name="dialect_TextView">(Dialecto)</string>
+    <string name="aa">Aa</string>
+    <string name="grammaticalFeatures">rasgos gramaticales</string>
+    <string name="definitions">Definiciones</string>
+    <string name="domainClasses">Clases de dominio</string>
+    <string name="examples">Ejemplos de</string>
+    <string name="shortDefinitions">Definiciones breves</string>
+    <string name="synonyms">Sinónimos</string>
+    <string name="phrases">Frases</string>
+    <string name="notes">Notas</string>
+    <string name="semanticClasses">Clases semánticas</string>
+    <string name="requestToCheckNetConnection">Verifique su conexión a Internet y deslice hacia abajo para actualizar la página.</string>
+    <string name="nswf">No se encontró tal palabra.</string>
+    <string name="wtd">Palabra del DIA</string>
+    <string name="messageToSwitchOnNetConnection">Encienda su Internet. Esta aplicación no puede funcionar sin una conexión a Internet.</string>
+    <string name="loveButter">Mantequilla de amor</string>
+    <string name="requestMessageToRate">Tómese un tiempo para calificarnos en Google Play.</string>
+    <string name="ratingRequestAccepted">Sí, vamos a Playstore</string>
+    <string name="ratingRequestDeniedForNow">Ahora no</string>
+    <string name="messageShare">Obtenga definiciones de palabras difíciles en su pantalla con solo un clic. Descarga Butter</string>
+    <string name="ca">Elige cualquiera</string>
+    <string name="wotdFileName">1000_most_general_spanish_words.json</string>
+    <string name="app_label">Butter</string>
+    <string name="requestToRefreshPage">Texto no encontrado. Actualice la página.</string>
+</resources>

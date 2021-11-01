@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sample_admob_app_id" translatable="false">ca-app-pub-7083699324991116~4590100011</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-7083699324991116~9450897655</string>
+    <string name="sample_admob_ad_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_ad_id" translatable="false">ca-app-pub-7083699324991116/7040356735</string>
+
+    <string name="app_name">Butter Tamil Dictionary</string>
+    <string name="query_hint">ஒரு வார்த்தையைத் தேடுங்கள்</string>
+    <string name="inf">இணையம் கிடைக்கவில்லை.</string>
+    <string name="icon_content_description">ஐகான் படம் - அதில் ஒரு அழகான வெண்ணெய் உள்ளது.</string>
+    <string name="home_menu_title">வீடு</string>
+    <string name="settings_menu_title">அமைப்புகள்</string>
+    <string name="share_menu_title">பகிர்</string>
+    <string name="rate_butter_menu_title">விகிதம் வெண்ணெய்</string>
+    <string name="search_menu_item">தேடல்</string>
+    <string name="saw">தமிழில் தேடுங்கள்</string>
+    <string name="navigation_drawer_enabled">வழிசெலுத்தல் அலமாரியை இயக்கப்பட்டது</string>
+    <string name="navigation_drawer_disabled">வழிசெலுத்தல் அலமாரியை முடக்கியது</string>
+    <string name="dark_mode_text">இருண்ட பயன்முறை</string>
+    <string name="text_size_text">உரை அளவு</string>
+    <string name="subscription_text">சந்தா</string>
+    <string name="subscription_state_text">செயலில்</string>
+    <string name="text_size">உரை அளவு</string>
+    <string name="dialect">பேச்சுவழக்கு</string>
+    <string name="wnf">ஒரு வார்த்தையை உள்ளிடவும்.</string>
+    <string name="pronunciation">உச்சரிப்பு</string>
+    <string name="dialect_TextView">(பேச்சுவழக்கு)</string>
+    <string name="aa">ஆ</string>
+    <string name="grammaticalFeatures">இலக்கண அம்சங்கள்</string>
+    <string name="definitions">வரையறைகள்</string>
+    <string name="domainClasses">டொமைன் வகுப்புகள்</string>
+    <string name="examples">எடுத்துக்காட்டுகள்</string>
+    <string name="shortDefinitions">குறுகிய வரையறைகள்</string>
+    <string name="synonyms">ஒத்த</string>
+    <string name="phrases">சொற்றொடர்கள்</string>
+    <string name="notes">குறிப்புகள்</string>
+    <string name="semanticClasses">சொற்பொருள் வகுப்புகள்</string>
+    <string name="requestToCheckNetConnection">உங்கள் இணைய இணைப்பைச் சரிபார்த்து, பக்கத்தைப் புதுப்பிக்க கீழே ஸ்வைப் செய்யவும்.</string>
+    <string name="nswf">அத்தகைய வார்த்தை எதுவும் கிடைக்கவில்லை.</string>
+    <string name="wtd">அன்றைய சொல்</string>
+    <string name="messageToSwitchOnNetConnection">உங்கள் இணையத்தில் மாறவும். இணைய இணைப்பு இல்லாமல் இந்த பயன்பாடு செயல்பட முடியாது.</string>
+    <string name="loveButter">லவ் வெண்ணெய்</string>
+    <string name="requestMessageToRate">Google Play இல் எங்களை மதிப்பிடுவதற்கு சிறிது நேரம் ஒதுக்குங்கள்.</string>
+    <string name="ratingRequestAccepted">ஆம், பிளேஸ்டோருக்குச் செல்வோம்</string>
+    <string name="ratingRequestDeniedForNow">இப்போது இல்லை</string>
+    <string name="messageShare">ஒரு கிளிக்கில் உங்கள் திரையில் கடினமான சொற்களின் வரையறைகளைப் பெறுங்கள். வெண்ணெய் பதிவிறக்க</string>
+    <string name="ca">எதையும் தேர்வு செய்யவும்</string>
+    <string name="wotdFileName">1000_most_general_tamil_words.json</string>
+    <string name="app_label">Butter</string>
+    <string name="requestToRefreshPage">உரை கிடைக்கவில்லை. பக்கத்தைப் புதுப்பிக்கவும்.</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sample_admob_app_id" translatable="false">ca-app-pub-7083699324991116~4590100011</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-7083699324991116~7615071802</string>
+    <string name="sample_admob_ad_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_ad_id" translatable="false">ca-app-pub-7083699324991116/1676365323</string>
+
+    <string name="app_name">Butter Latvian Dictionary</string>
+    <string name="query_hint">Meklējiet vārdu</string>
+    <string name="inf">Internets nav atrasts.</string>
+    <string name="icon_content_description">Ikonas attēls - tajā ir glīts sviests.</string>
+    <string name="home_menu_title">Mājas</string>
+    <string name="settings_menu_title">Iestatījumi</string>
+    <string name="share_menu_title">Dalīties</string>
+    <string name="rate_butter_menu_title">Likmes sviests</string>
+    <string name="search_menu_item">Meklēt</string>
+    <string name="saw">Meklēt latviešu valodā</string>
+    <string name="navigation_drawer_enabled">Navigācijas atvilktne ir iespējota</string>
+    <string name="navigation_drawer_disabled">Navigācijas atvilktne ir atspējota</string>
+    <string name="dark_mode_text">Tumšais režīms</string>
+    <string name="text_size_text">Teksta lielums</string>
+    <string name="subscription_text">abonēšana</string>
+    <string name="subscription_state_text">Aktīvs</string>
+    <string name="text_size">Teksta lielums</string>
+    <string name="dialect">Dialekts</string>
+    <string name="wnf">Lūdzu, ievadiet vārdu.</string>
+    <string name="pronunciation">izruna</string>
+    <string name="dialect_TextView">(Dialekts)</string>
+    <string name="aa">Aa</string>
+    <string name="grammaticalFeatures">Gramatiskās iezīmes</string>
+    <string name="definitions">Definīcijas</string>
+    <string name="domainClasses">Domēnu klases</string>
+    <string name="examples">Piemēri</string>
+    <string name="shortDefinitions">Īsas definīcijas</string>
+    <string name="synonyms">Sinonīmi</string>
+    <string name="phrases">Frāzes</string>
+    <string name="notes">Piezīmes</string>
+    <string name="semanticClasses">Semantiskās nodarbības</string>
+    <string name="requestToCheckNetConnection">Lūdzu, pārbaudiet interneta savienojumu un velciet uz leju, lai atsvaidzinātu lapu.</string>
+    <string name="nswf">Šāds vārds nav atrasts.</string>
+    <string name="wtd">Dienas vārds</string>
+    <string name="messageToSwitchOnNetConnection">Lūdzu, ieslēdziet savu internetu. Šī lietojumprogramma nevar darboties bez interneta savienojuma.</string>
+    <string name="loveButter">Mīlu sviestu</string>
+    <string name="requestMessageToRate">Lūdzu, veltiet laiku, lai novērtētu mūs pakalpojumā Google Play.</string>
+    <string name="ratingRequestAccepted">Jā, ejam uz Playstore</string>
+    <string name="ratingRequestDeniedForNow">Ne tagad</string>
+    <string name="messageShare">Saņemiet cieto vārdu definīcijas ekrānā, veicot tikai vienu klikšķi. Lejupielādējiet sviestu</string>
+    <string name="ca">Izvēlieties jebkuru</string>
+    <string name="wotdFileName">1000_most_general_latvian_words.json</string>
+    <string name="app_label">Butter</string>
+    <string name="requestToRefreshPage">Teksts nav atrasts. Lūdzu, atsvaidziniet lapu.</string>
+</resources>

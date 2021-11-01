@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sample_admob_app_id" translatable="false">ca-app-pub-7083699324991116~4590100011</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-7083699324991116~1672495891</string>
+    <string name="sample_admob_ad_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_ad_id" translatable="false">ca-app-pub-7083699324991116/6110418446</string>
+
+    <string name="app_name">Butter Romanian Dictionary</string>
+    <string name="query_hint">Căutați un cuvânt</string>
+    <string name="inf">Internetul nu a fost găsit.</string>
+    <string name="icon_content_description">Imagine pictogramă - Are un unt drăguț.</string>
+    <string name="home_menu_title">Acasă</string>
+    <string name="settings_menu_title">Setări</string>
+    <string name="share_menu_title">Acțiune</string>
+    <string name="rate_butter_menu_title">Evaluează untul</string>
+    <string name="search_menu_item">Căutare</string>
+    <string name="saw">Caută în limba română</string>
+    <string name="navigation_drawer_enabled">Sertar de navigare activat</string>
+    <string name="navigation_drawer_disabled">Sertar de navigare dezactivat</string>
+    <string name="dark_mode_text">Mod întunecat</string>
+    <string name="text_size_text">Mărimea textului</string>
+    <string name="subscription_text">abonament</string>
+    <string name="subscription_state_text">Activ</string>
+    <string name="text_size">Mărimea textului</string>
+    <string name="dialect">Dialect</string>
+    <string name="wnf">Vă rugăm să introduceți un cuvânt.</string>
+    <string name="pronunciation">pronunție</string>
+    <string name="dialect_TextView">(Dialect)</string>
+    <string name="aa">Aa</string>
+    <string name="grammaticalFeatures">Caracteristici gramaticale</string>
+    <string name="definitions">Definiții</string>
+    <string name="domainClasses">Clase de domeniu</string>
+    <string name="examples">Exemple</string>
+    <string name="shortDefinitions">Definiții scurte</string>
+    <string name="synonyms">Sinonime</string>
+    <string name="phrases">Expresii</string>
+    <string name="notes">Note</string>
+    <string name="semanticClasses">Clase semantice</string>
+    <string name="requestToCheckNetConnection">Vă rugăm să verificați conexiunea la internet și să glisați în jos pentru a actualiza pagina.</string>
+    <string name="nswf">Nu s-a găsit un astfel de cuvânt.</string>
+    <string name="wtd">Cuvantul zilei</string>
+    <string name="messageToSwitchOnNetConnection">Vă rugăm să porniți internetul. Această aplicație nu poate funcționa fără o conexiune la Internet.</string>
+    <string name="loveButter">Untul de dragoste</string>
+    <string name="requestMessageToRate">Vă rugăm să luați ceva timp pentru a ne evalua pe Google Play.</string>
+    <string name="ratingRequestAccepted">Da, hai să mergem la Playstore</string>
+    <string name="ratingRequestDeniedForNow">Nu acum</string>
+    <string name="messageShare">Obțineți definiții ale cuvintelor dure pe ecran cu un singur clic. Descărcați Unt</string>
+    <string name="ca">Alegeți oricare</string>
+    <string name="wotdFileName">1000_most_general_romanian_words.json</string>
+    <string name="app_label">Butter</string>
+    <string name="requestToRefreshPage">Textul nu a fost găsit. Vă rugăm să reîmprospătați pagina.</string>
+</resources>

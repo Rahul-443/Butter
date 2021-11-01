@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorWhichWord">#E57373</color>
+    <color name="colorWord">#FFB74D</color>
+    <color name="colorLexicalCategory">#9575CD</color>
+    <color name="colorDefinition">#64B5F6</color>
+    <color name="colorExample">#81C784</color>
+    <color name="colorSynonym">#FF8A65</color>
+    <color name="colorShortDefinitions">#4DB6AC</color>
+    <color name="colorEtymologies">#4FC3F7</color>
+    <color name="colorGrammaticalFeatures">#5C6BC0</color>
+    <color name="colorPhrases">#66BB6A</color>
+    <color name="colorSemanticClasses">#FF7043</color>
+    <color name="colorDomainClasses">#4DD0E1</color>
+    <color name="colorDerivatives">#26A69A</color>
+    <color name="colorNotes">#81C784</color>
+
+    <color name="colorPrimary">#80DEEA</color>
+    <color name="colorPrimaryDark">#00BCD4</color>
+    <color name="colorAccent">#FFCC80</color>
+</resources>

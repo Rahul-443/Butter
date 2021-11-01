@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sample_admob_app_id" translatable="false">ca-app-pub-7083699324991116~4590100011</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-7083699324991116~5113031547</string>
+    <string name="sample_admob_ad_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_ad_id" translatable="false">ca-app-pub-7083699324991116/2606303614</string>
+
+    <string name="app_name">Butter Swahili Dictionary</string>
+    <string name="query_hint">Tafuta neno</string>
+    <string name="inf">Mtandao haupatikani.</string>
+    <string name="icon_content_description">Picha ya ikoni - Ina siagi nzuri ndani yake.</string>
+    <string name="home_menu_title">Nyumbani</string>
+    <string name="settings_menu_title">Mipangilio</string>
+    <string name="share_menu_title">Shiriki</string>
+    <string name="rate_butter_menu_title">Kiwango cha Siagi</string>
+    <string name="search_menu_item">Tafuta</string>
+    <string name="saw">Tafuta kwa kiswahili</string>
+    <string name="navigation_drawer_enabled">Droo ya Urambazaji Imewezeshwa</string>
+    <string name="navigation_drawer_disabled">Droo ya Urambazaji Imelemazwa</string>
+    <string name="dark_mode_text">Hali ya giza</string>
+    <string name="text_size_text">Ukubwa wa Nakala</string>
+    <string name="subscription_text">usajili</string>
+    <string name="subscription_state_text">Inatumika</string>
+    <string name="text_size">Ukubwa wa maandishi</string>
+    <string name="dialect">Lahaja</string>
+    <string name="wnf">Tafadhali ingiza neno.</string>
+    <string name="pronunciation">matamshi</string>
+    <string name="dialect_TextView">(Lahaja)</string>
+    <string name="aa">Aa</string>
+    <string name="grammaticalFeatures">Vipengele vya kisarufi</string>
+    <string name="definitions">Ufafanuzi</string>
+    <string name="domainClasses">Madarasa ya Kikoa</string>
+    <string name="examples">Mifano</string>
+    <string name="shortDefinitions">Ufafanuzi mfupi</string>
+    <string name="synonyms">Visawe</string>
+    <string name="phrases">Maneno</string>
+    <string name="notes">Vidokezo</string>
+    <string name="semanticClasses">Madarasa ya Semantic</string>
+    <string name="requestToCheckNetConnection">Tafadhali angalia Uunganisho wako wa Mtandao na uteleze chini ili uone upya ukurasa.</string>
+    <string name="nswf">Hakuna neno kama hilo lililopatikana.</string>
+    <string name="wtd">Neno la siku hiyo</string>
+    <string name="messageToSwitchOnNetConnection">Tafadhali washa mtandao wako. Programu tumizi hii haiwezi kufanya kazi bila muunganisho wa Mtandao.</string>
+    <string name="loveButter">Siagi ya Upendo</string>
+    <string name="requestMessageToRate">Tafadhali chukua muda kutupima kwenye Google Play.</string>
+    <string name="ratingRequestAccepted">Ndio, Twende Playstore</string>
+    <string name="ratingRequestDeniedForNow">Sio kwa sasa</string>
+    <string name="messageShare">Pata ufafanuzi wa maneno magumu kwenye skrini yako kwa kubofya tu. Pakua Siagi</string>
+    <string name="ca">Chagua yoyote</string>
+    <string name="wotdFileName">1000_most_general_swahili_words.json</string>
+    <string name="app_label">Butter</string>
+    <string name="requestToRefreshPage">Maandishi hayapatikani. Tafadhali Onyesha upya Ukurasa.</string>
+</resources>
