@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="Theme.Transparent" parent="Theme.MaterialComponents.DayNight.Dialog">
+        <item name="android:windowAnimationStyle">@style/PauseDialog</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="PauseDialog">
+        <item name="android:windowAnimationStyle">@style/PauseDialogAnimation</item>
+    </style>
+
+    <style name="PauseDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_up</item>
+        <item name="android:windowExitAnimation">@anim/slide_in_out</item>
+    </style>
+
+    <style name="ThemeWithCorners" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/above_rounded_shape</item>
+    </style>
+
+</resources>

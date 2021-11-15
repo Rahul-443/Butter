@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="api_id" translatable="false">534dad72</string>
+    <string name="api_key" translatable="false">a7d3a216bbdecbe0d99d7d57aad756c9</string>
+    <string name="sample_admob_app_id" translatable="false">ca-app-pub-7083699324991116~4590100011</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-7083699324991116~3177149253</string>
+    <string name="sample_admob_ad_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_ad_id" translatable="false">ca-app-pub-7083699324991116/9550985913</string>
+
+    <string name="app_name">Butter Hindi Dictionary</string>
+    <string name="query_hint">एक शब्द खोजो</string>
+    <string name="wnf">कृपया एक शब्द दर्ज करें।</string>
+    <string name="inf">इंटरनेट नहीं मिला।</string>
+    <string name="icon_content_description">आइकन छवि - इसमें एक प्यारा मक्खन है।</string>
+    <string name="home_menu_title">घर</string>
+    <string name="settings_menu_title">समायोजन</string>
+    <string name="share_menu_title">शेयर</string>
+    <string name="rate_butter_menu_title">बटर को रेट करें</string>
+    <string name="search_menu_item">खोज</string>
+    <string name="saw">हिंदी में खोजें</string>
+    <string name="navigation_drawer_enabled">नेविगेशन दराज सक्षम</string>
+    <string name="navigation_drawer_disabled">नेविगेशन दराज अक्षम</string>
+    <string name="dark_mode_text">डार्क मोड</string>
+    <string name="text_size_text">टेक्स्ट का साइज़</string>
+    <string name="subscription_text">अंशदान</string>
+    <string name="subscription_state_text">सक्रिय</string>
+    <string name="text_size">टेक्स्ट का साइज़</string>
+    <string name="dialect">बोली</string>
+    <string name="pronunciation">उच्चारण</string>
+    <string name="dialect_TextView">(बोली)</string>
+    <string name="aa">आ</string>
+    <string name="grammaticalFeatures">व्याकरण संबंधी विशेषताएं</string>
+    <string name="definitions">परिभाषाएं</string>
+    <string name="domainClasses">डोमेन कक्षाएं</string>
+    <string name="examples">उदाहरण</string>
+    <string name="shortDefinitions">लघु परिभाषाएँ</string>
+    <string name="synonyms">समानार्थक शब्द</string>
+    <string name="phrases">वाक्यांशों</string>
+    <string name="notes">टिप्पणियाँ</string>
+    <string name="semanticClasses">शब्दार्थ वर्ग</string>
+    <string name="requestToCheckNetConnection">कृपया अपना इंटरनेट कनेक्शन जांचें और पृष्ठ को रीफ्रेश करने के लिए नीचे स्वाइप करें।</string>
+    <string name="nswf">ऐसा कोई शब्द नहीं मिला।</string>
+    <string name="wtd">आज का शब्द</string>
+    <string name="messageToSwitchOnNetConnection">कृपया अपने इंटरनेट पर स्विच करें। यह एप्लिकेशन इंटरनेट कनेक्शन के बिना काम नहीं कर सकता है।</string>
+    <string name="loveButter">मक्खन से प्यार करो</string>
+    <string name="requestMessageToRate">कृपया Google Play पर हमें रेट करने के लिए कुछ समय लें।</string>
+    <string name="ratingRequestAccepted">हां, चलो प्लेस्टोर पर जाते हैं</string>
+    <string name="ratingRequestDeniedForNow">अभी नहीं</string>
+    <string name="messageShare">बस एक क्लिक पर अपनी स्क्रीन पर कठिन शब्दों की परिभाषाएँ प्राप्त करें। मक्खन डाउनलोड करें</string>
+    <string name="ca">कोई भी चुनें</string>
+    <string name="wotdFileName">1000_most_general_hindi_words.json</string>
+    <string name="app_label">Butter</string>
+    <string name="requestToRefreshPage">पाठ नहीं मिला। कृपया पृष्ठ को ताज़ा करें।</string>
+</resources>

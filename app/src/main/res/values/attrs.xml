@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="day_night_attributes">
+        <attr name="background_color" format="color" />
+        <attr name="text_color" format="color" />
+        <attr name="button_color" format="color" />
+        <attr name="toolbar_color" format="color" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,93 @@
+1. improving jsonToText class to get relevant text from json.
+2. improving text formatting.
+3. integrating firebase script to get a new word by dictionary letter sorting if json file is effecting file size relevantly.
+4. making an Oxford class for extra code. -- DONE
+5. disintegrating firebase database and using json instead for getting new word. --DONE
+6. integrating english-english-hindi dictionary support.
+7. integrating other languages provided by the api.
+8. integrating pronunciation text. -- DONE
+9. saving word of the day as cache to save word calls with oxford api. -- DONE
+10. finding core word using lemmas endpoint. -- DONE
+11. not working with word 'thought'. -- DONE
+12. using the words endpoint with api for inflections when using developer plan - at that time instead of calling for lemmas from
+    TrySimilarWords -- call for words endpoint. -- DONE
+13. calling related word in text of searched word in tabview both on card and main activity on double tap.
+14. making dictionary card full width size when loading -- CURRENT SITUATION -- it is 70dp.
+15. support for language-language-language2 by translation endpoint and words endpoint for inflected words will be given with developer account.
+16. calling 4 calls on lemmas.
+17. add recent searches to searchbar.
+18. If internet goes down in between, app crashes.
+19. integrating pronunciation function by card (to be called via process text intent) -> just get audio file and inside of app - tap any word,
+    and like clicking define click pronunciate.
+20. A/B TESTING -> Dialects and audio settings is currently in settings page, try A/B testing by adding it on the dictionary page like
+    a chip button clicking on which a list comes and you can select every time which dialect you want to hear at that time easily. It
+    gives you the feature that by changing dialect from list, you can hear both at the same page as they are both loaded on the page.
+21. Develop tablet flavors.
+22. All Json solver classes for different endpoints can be changed in a single Json solver class with checking by null values.
+23. On clicking too many times audio buttons, it repeats it too much, it should say it only one time.
+24. Improving word json solver, specifically for grammatical features is in searching form of the query word.
+25. Save the audio file. -- DONE
+26. Getting definition of null when word not found (ERROR). -- DONE
+27. Changing drawerLayout icon's color.
+28. Share option not coming in android 5.0 in mainactivity text selection.
+29. For tablets should come from right and stay at the right.
+30. optimising text size of etymology card relative to page text size when page text size is changed in settings.
+31. On searching 'programatically', there are only derivatives available, so add derivatives to JsonToText solver class.
+32. On searching long word like 'instantaneously', in dictionary card dialect gets crushed and cannot be seen.
+33. Making a) antonyms b) synonyms c) idioms d) sentences e) pronunciations f) examples finder app.
+34. improving text colors so that relevant text found quickly.
+35. Saved Text Text colors not responding to night mode. -- DONE
+36. Static data is being shown up when new data not found like in etymologies and pronunciations, static data should be cleared up in each
+    new instance of search.
+37. Code can be minimized by taking many similar methods to application class.
+38. In connectivity, if wifi is closed, it is not being recognised as network lost.
+39. If connection is lost, wait for 2 seconds to check if connection is available using handler.
+40. Code can be minimized by reducing boilerplate code.
+41. If internet goes off a little late it is showing no such word found at that time instead of please check internet connection.
+42. In Oxford's async task, Network error is being recognised with the help of e message, if e message is not same as the message like in
+    case if server is not providing the data, if the message is different, the statement shown will be 'no such word found', for this it
+    should be seen what error is thrown if server does not provide the data. If there is a server error - the message shown to user should
+    be - "It's not your fault, it's us."
+43. In dark mode search bar text color is white which on the light background becomes hard to see.
+44. Instead of tweaking classes everytime make different classes of flavors relative to wotd json file and exclude them while building.
+45. The default flavor should be full flavored.
+46. If internet was off and wotd was called it saves text as please check your internet connection, at new instance or if data is available
+    as soon, it should call the wotd and save it.
+47. If wotd is no such word found hide it and display a tip like use hindi keyboard instead of it.
+48. For removing network related errors, a refresh button will be better.
+49. Give an advice to search in native language.
+50. If ads give decent revenue, try A/B testing ads with showing ads on 3rd call using shared preferences to save call number.
+51. Still having 'no such word found' error when network problems.
+52. Word - vina - latvian - formatText error.
+
+-------------------- thanks to ------>>
+
+https://lottiefiles.com/tomfabre
+https://lottiefiles.com/luisperez
+<a href='https://www.freepik.com/vectors/logo'>Logo vector created by myriammira - www.freepik.com</a>
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+------------------flavor english playstore publish - pp1 wiki ->>
+
+1) Enhance dark mode with latest dark mode documentation.
+2) Give styles and click listeners to theme & style buttons in settings.
+3) Still calling 4 calls on lemmas.
+4) Restructure text and provide text style in main activity's page text.
+5) Restructure dictionary card view.
+6) app icon not showing in android oreo 8.1 .
+
+search style ->> translate - entry - words - lemma - entry
+
+-----------------------flavors ->>
+
+1) all flavored -> choose query translater languages (in which you can put words.) - choose languages in which to get definition.
+   (unflavored full version, can support multi-language results.)
+2) Mono language flavors. (flavor convention -> mono lang)
+3) bilingual flavors. (eg. get definitions both in english and hindi.) (flavor convention -> bilingual lang & lang)
+
+
+----------------- todo (priority wise) ---->
+1) Swipe to refresh. (still displaying no such word found when network connection error).
+2) Merging Json Solver Classes (if mergeable).
+3) making methods to reduce boilerplate code.
+4) making bilingual class.

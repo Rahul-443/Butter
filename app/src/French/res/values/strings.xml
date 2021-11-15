@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sample_admob_app_id" translatable="false">ca-app-pub-7083699324991116~4590100011</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-7083699324991116~8037404325</string>
+    <string name="sample_admob_ad_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_ad_id" translatable="false">ca-app-pub-7083699324991116/3751864326</string>
+
+    <string name="app_name">Butter French Dictionary</string>
+    <string name="settings_menu_title">Paramètres</string>
+    <string name="subscription_state_text">Actif</string>
+    <string name="share_menu_title">Partager</string>
+    <string name="dialect">Dialecte</string>
+    <string name="rate_butter_menu_title">Évaluer le beurre</string>
+    <string name="navigation_drawer_enabled">Tiroir de navigation activé</string>
+    <string name="navigation_drawer_disabled">Tiroir de navigation désactivé</string>
+    <string name="dark_mode_text">Mode sombre</string>
+    <string name="text_size_text">Taille du texte</string>
+    <string name="text_size">Taille du texte</string>
+    <string name="home_menu_title">Domicile</string>
+    <string name="search_menu_item">Rechercher</string>
+    <string name="wnf">Veuillez entrer un mot.</string>
+    <string name="query_hint">Rechercher un mot en français</string>
+    <string name="saw">Recherche en français</string>
+    <string name="inf">Internet introuvable.</string>
+    <string name="icon_content_description">Image d\'icône - Contient un joli beurre.</string>
+    <string name="subscription_text">abonnement</string>
+    <string name="pronunciation">prononciation</string>
+    <string name="dialect_TextView">(Dialecte)</string>
+    <string name="aa">Aa</string>
+    <string name="grammaticalFeatures">Caractéristiques grammaticales</string>
+    <string name="definitions">Définitions</string>
+    <string name="domainClasses">Classes de domaine</string>
+    <string name="examples">Exemples</string>
+    <string name="shortDefinitions">Définitions courtes</string>
+    <string name="synonyms">Synonymes</string>
+    <string name="phrases">Phrases</string>
+    <string name="notes">Remarques</string>
+    <string name="semanticClasses">Classes sémantiques</string>
+    <string name="requestToCheckNetConnection">Veuillez vérifier votre connexion Internet et faites glisser votre doigt vers le bas pour actualiser la page.</string>
+    <string name="nswf">Aucun mot trouvé.</string>
+    <string name="wtd">Mot du jour</string>
+    <string name="messageToSwitchOnNetConnection">Veuillez allumer votre Internet. Cette application ne peut pas fonctionner sans connexion Internet.</string>
+    <string name="loveButter">Beurre d\'amour</string>
+    <string name="requestMessageToRate">Veuillez prendre le temps de nous évaluer sur Google Play.</string>
+    <string name="ratingRequestAccepted">Oui, allons sur Playstore</string>
+    <string name="ratingRequestDeniedForNow">Pas maintenant</string>
+    <string name="messageShare">Obtenez des définitions de mots durs sur votre écran en un seul clic. Télécharger Butter</string>
+    <string name="ca">Choisissez n\'importe quel</string>
+    <string name="wotdFileName">1000_most_general_french_words.json</string>
+    <string name="app_label">Butter</string>
+    <string name="requestToRefreshPage">Texte introuvable. Veuillez actualiser la page.</string>
+</resources>
